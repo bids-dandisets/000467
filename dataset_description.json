@@ -1,4 +1,19 @@
 {
+    "Name": "Sparse and stereotyped encoding implicates a core glomerulus for ant alarm behavior",
     "BIDSVersion": "1.10",
-    "HEDVersion": "8.3.0"
+    "HEDVersion": "8.3.0",
+    "Description": "In these experiments, we recorded odor-evoked calcium responses in the antennal lobe of the clonal raider ant (Ooceraea biroi). Transgenic ants expressed GCaMP6s in olfactory sensory neurons, and the right antennal lobe was imaged using a two-photon microscope. A piezo device and resonant scanning galvanometer were used to image whole-antennal lobe volumes at a rate of 0.83 volumes per second. 33 z-planes were imaged at 5 micrometer intervals. In each recording, odor stimulus commenced after 3s and lasted for 5s. Negative control: paraffin oil. General odorant stimuli: isopropanol, ethylpyrazine, ethanol, 3-hexanone, propionic acid. Ant alarm pheromones: 4-methyl-3-heptanone, 4-methyl-3-heptanol, 4-methyl-3-hexanol, 6-methyl-5-hepten-2-one.\n\nExperiment key:\nGeneral odorant experiment subjects:\nsub-ant1-m10-d6-y2022\nsub-ant3-m10-d6-y2022\nsub-ant1-m10-d11-y2022\nsub-ant2-m10-d11-y2022\nsub-ant3-m10-d11-y2022\nsub-ant5-m10-d11-y2022\n\nBilateral antennal lobe imaging experiment subjects:\nsub-ant2-m2-d10-y2023\nsub-ant3-m2-d10-y2023\nsub-ant4-m2-d10-y2023\n\nUnilateral alarm pheromone imaging experiment subjects:\nsub-ant2-m4-d20-y2022\nsub-ant4-m4-d20-y2022\nsub-ant1-m4-d21-y2022\nsub-ant2-m4-d21-y2022\nsub-ant3-m4-d21-y2022\nsub-ant1-m4-d26-y2022\nsub-ant2-m4-d26-y2022\nsub-ant3-m4-d26-y2022\nsub-ant4-m4-d26-y2022\nsub-ant5-m4-d26-y2022\nsub-ant1-m4-d27-y2022\nsub-ant2-m4-d27-y2022\nsub-ant3-m4-d27-y2022",
+    "DatasetType": "raw",
+    "Authors": [
+        "Hart, Taylor"
+    ],
+    "License": "CC-BY-4.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.12.1.dev6+gf29fa0039",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
 }
